@@ -1,5 +1,5 @@
 # DouBanSpider
-代码改自：https://github.com/lanbing510/DouBanSpider，
+代码改自：https://github.com/lanbing510/DouBanSpider
 
 源代码网址已经不能运行
 
